@@ -30,7 +30,7 @@ class _MessagePageState extends State<MessagePage>
   @override
   void initState() {
     super.initState();
-    label = "Add a story";
+    label = "Add your story";
     leadingButton = IconButton(
       icon: Icon(
         Icons.close,
@@ -87,7 +87,7 @@ class _MessagePageState extends State<MessagePage>
       case 0:
         setCursor();
         setState(() {
-          label = "Add a story";
+          label = "Add your story";
           leadingButton = IconButton(
             icon: Icon(
               Icons.close,
