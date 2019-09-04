@@ -2,6 +2,9 @@
 
 The project is maintained by a non-profit organisation, along with an amazing collections of Flutter samples. We're trying to make continuous commits for changes along with the Flutter tech progress.
 
+# The UX For Messager Design
+
+---
 
 ## Goals for this sample
 
@@ -22,6 +25,10 @@ The project is maintained by a non-profit organisation, along with an amazing co
 ---
 
 Welcome Contribute With Pull Request.
+
+---
+
+[For Chinese,you can read this wechat official article](https://mp.weixin.qq.com/s/nyCp9KaWpMqyzVnbv_07Iw)
 
 ---
 
